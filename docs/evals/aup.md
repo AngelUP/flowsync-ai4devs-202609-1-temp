@@ -43,6 +43,6 @@ Resultado: FALLIDO.
 
 # Parte B
 
-1. Yo predije que acertaría en 3 de los 5 intentos. La realidad fue que solo acertó en 2. En mi evaluación tuvo un 40% de cumplimiento de la regla.
-2. Por lo que pude ver, la regla no se cumple porque faltaría modificar e indicar la regeneración del archivo con los comandos correspondientes.
+1. Yo predije que acertaría en 3 de los 5 intentos. La realidad fue que solo acertó en 2. En mi evaluación se obtuvo un 40% de cumplimiento de la regla.
+2. Por lo que pude ver, la regla no se cumple porque faltaría modificar e indicar la regeneración del archivo OpenAPI con los comandos correspondientes.
 3. Lo que pude ver, es que no se valida la generación de pruebas para la nueva funcionalidad.
